@@ -10,7 +10,7 @@ This project demonstrates a system that uses **Software Defined Networking (SDN)
 - **Mininet** (for network emulation)
 - **Scikit-learn** (for training the ML model)
 - **Joblib** (for loading the saved model)
-- **Python 3.x**
+- **Python 3.10**
 
 ---
 
